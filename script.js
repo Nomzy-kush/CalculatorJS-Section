@@ -160,8 +160,3 @@ document.addEventListener('keydown', function (event) {
   }
 
 });
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 34e3f0e5b590171ac2478535aebdfadd99c2d930
