@@ -1,1 +1,1 @@
-# CalculatorJS-Section
+# Color-Picker Extension
